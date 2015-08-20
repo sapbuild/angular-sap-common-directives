@@ -1,0 +1,5 @@
+gulp-config/
+bump-config.json
+gulpfile.js
+.eslintrc
+make
