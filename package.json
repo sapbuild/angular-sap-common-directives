@@ -1,7 +1,7 @@
 {
   "name": "angular-sap-common-directives",
   "description": "SAP Common BUILD angular utility directives",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/sapbuild/angular-sap-common-directives.git"
@@ -9,7 +9,7 @@
   "licenses": [
     {
       "type": "Apache License, Version 2.0",
-      "url": "https://github.com/sapbuild/angular-sap-common-directives/blob/master/LICENSE.md"
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.md"
     }
   ],
   "devDependencies": {
