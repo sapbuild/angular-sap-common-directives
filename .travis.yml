@@ -1,6 +1,7 @@
 language: node_js
 
 install:
+  - echo running npm install
   - npm install
   
 node_js:
