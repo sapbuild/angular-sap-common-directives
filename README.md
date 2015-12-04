@@ -6,7 +6,7 @@
 angular-sap-common-directives
 =============================
 
-Common client angular utility directives
+Common client angular utility directives.
 
 
 # BUILD on GitHub
